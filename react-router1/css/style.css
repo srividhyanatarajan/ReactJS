@@ -1,0 +1,32 @@
+.rowtop{
+  margin-top: 70px;
+}
+.thfxdheader{
+  display: block;
+  height: 30px;
+  background-color: yellow;
+  color: red;
+}
+.h1color{
+  color:#FFF;
+}
+
+.list-group{
+  /*height:200px !important;*/
+/*  border:1px solid #999 !important;*/
+}
+.list-group-item{
+  height:40px !important;
+  width: 200px !important;
+  font-size: 14px !important;
+  font-weight: bold;
+  color:#336 !important;
+}
+a:hover{
+  color:red !important;
+  font-weight: bold;
+  font-size:14px;
+}
+.active{
+  color:blue !important;
+}
